@@ -1,5 +1,4 @@
-# pressure-sensor-driver
-Convert Precision Sensor Readings To KPa
+# Driver to Convert Precision Pressure Sensor Readings To KPa for an 8-bit Microcontroller 
 
 Author: Hooman Tahmasebipour
 
